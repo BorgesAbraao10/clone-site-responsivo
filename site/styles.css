@@ -138,9 +138,11 @@ main {
 }
 
 .img-bx {
-  width: 60%;
+  width: 50%;
+  align-items: center;
 }
 
 .img-bx img {
   width: 100%;
+  border-radius: 50px;
 }
